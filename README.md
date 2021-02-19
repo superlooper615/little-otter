@@ -21,7 +21,7 @@ https://app.cloudcraft.co/view/c5857d4f-4dc9-448f-a82a-d6fb1d7fade9?key=YxDs0Ckz
 
      - There will be health check in the auto-scaling group based on the CPU load or network load.
 
-     - Configure cloudwatch to mornitor the instances
+     - Configure cloudwatch to monitor the instances
 
     - Setup monitoring tool like ELK stack, datadog, pagerduty to ensure we get notified in real time
 
