@@ -13,26 +13,26 @@ https://app.cloudcraft.co/view/c5857d4f-4dc9-448f-a82a-d6fb1d7fade9?key=YxDs0Ckz
 
 -   What does testing new code/features look like?
 
-                - Have the code in seperate VPC with CI/CD
+     - Have the code in seperate VPC with CI/CD
 
 -   How can we feel confident on application health?
 
-                - There will be health check in the auto-scaling group based on the CPU load or network load.
+     - There will be health check in the auto-scaling group based on the CPU load or network load.
 
-                - Configure cloudwatch to mornitor the instances
+     - Configure cloudwatch to mornitor the instances
 
-                - Setup monitoring tool like ELK stack, datadog, pagerduty to ensure we get notified in real time
+    - Setup monitoring tool like ELK stack, datadog, pagerduty to ensure we get notified in real time
 
 -   How we can feel confident on the privacy and security of our clients' personal health information?
 
-                - Make full use of AWS KMS
+    - Make full use of AWS KMS
 
-                - Encrypt data at rest and in transit
+    - Encrypt data at rest and in transit
 
-                - Implement frequent environment security posture evaluation
+    - Implement frequent environment security posture evaluation
 
-                - Implement Zero-trust model in the organization as a whole
+    - Implement Zero-trust model in the organization as a whole
 
-                - Seraperate of duty. Not one should have "god" power in the environment
+    - Seraperate of duty. Not one should have "god" power in the environment
 
-                -
+    -
