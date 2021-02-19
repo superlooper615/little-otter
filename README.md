@@ -13,9 +13,11 @@ https://app.cloudcraft.co/view/c5857d4f-4dc9-448f-a82a-d6fb1d7fade9?key=YxDs0Ckz
 
 -   What does testing new code/features look like?
 
-     - Run test locally then commit CI/Cd pipe line
+     - Run test locally then commit CI/CD pipeline
 
      - Can create containers to maintain consistency of the testing environment between developers.
+
+     - I would love to know the current setup of Little Otter
 
 -   How can we feel confident on application health?
 
@@ -23,7 +25,9 @@ https://app.cloudcraft.co/view/c5857d4f-4dc9-448f-a82a-d6fb1d7fade9?key=YxDs0Ckz
 
      - Configure cloudwatch to monitor the instances
 
-    - Setup monitoring tool like ELK stack, datadog, pagerduty to ensure we get notified in real time
+     - Setup monitoring tool like ELK stack, datadog, pagerduty to ensure we get notified in real time
+
+     - Implement application penetration testing.
 
 -   How we can feel confident on the privacy and security of our clients' personal health information?
 
@@ -36,5 +40,14 @@ https://app.cloudcraft.co/view/c5857d4f-4dc9-448f-a82a-d6fb1d7fade9?key=YxDs0Ckz
     - Implement Zero-trust model in the whole organization
 
     - Seraperate of duty. Not one should have "god" power in the environment
+
+    - Maintain codebase security and integrity
+
+    - Monitor clients' info on the black market? 
+    - And much more
+
+
+
+
 
 
