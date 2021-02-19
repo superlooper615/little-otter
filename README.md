@@ -13,7 +13,9 @@ https://app.cloudcraft.co/view/c5857d4f-4dc9-448f-a82a-d6fb1d7fade9?key=YxDs0Ckz
 
 -   What does testing new code/features look like?
 
-     - Have the code in seperate VPC with CI/CD
+     - Run test locally then commit CI/Cd pipe line
+
+     - Can create containers to maintain consistency of the testing environment between developers.
 
 -   How can we feel confident on application health?
 
@@ -31,8 +33,8 @@ https://app.cloudcraft.co/view/c5857d4f-4dc9-448f-a82a-d6fb1d7fade9?key=YxDs0Ckz
 
     - Implement frequent environment security posture evaluation
 
-    - Implement Zero-trust model in the organization as a whole
+    - Implement Zero-trust model in the whole organization
 
     - Seraperate of duty. Not one should have "god" power in the environment
 
-    -
+
