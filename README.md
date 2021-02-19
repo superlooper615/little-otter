@@ -40,11 +40,12 @@ https://app.cloudcraft.co/view/c5857d4f-4dc9-448f-a82a-d6fb1d7fade9?key=YxDs0Ckz
 
     - Implement Zero-trust model in the whole organization
 
-    - Seraperate of duty. Not one should have "god" power in the environment
+    - Seraperation of duty. Not one should have "god" power in the environment
 
     - Maintain codebase security and integrity
 
     - Monitor clients' info on the black market? 
+    
     - And much more
 
 
