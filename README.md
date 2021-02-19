@@ -13,11 +13,12 @@ https://app.cloudcraft.co/view/c5857d4f-4dc9-448f-a82a-d6fb1d7fade9?key=YxDs0Ckz
 
 -   What does testing new code/features look like?
 
-     - Run test locally then commit CI/CD pipeline
+     - Run tests locally then commit CI/CD pipeline
+
+     - Run tests in the emphemeral environments that replicate the production environment.
 
      - Can create containers to maintain consistency of the testing environment between developers.
 
-     - I would love to know the current setup of Little Otter
 
 -   How can we feel confident on application health?
 
